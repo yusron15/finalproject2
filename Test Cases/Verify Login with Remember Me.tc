@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Login with Remember Me</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ccef980-9b06-4e4c-b4bf-76cb80afc53d</testCaseGuid>
+</TestCaseEntity>
